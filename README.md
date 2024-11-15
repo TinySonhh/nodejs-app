@@ -11,8 +11,13 @@ Provide the nodejs app core so that you can develop your idea on.
 7. Built-in baseAuth as a middleware for routes need auth
 8. Support SSL template servers
 
- ## What can you do with this?
- You can do anything you can with this.
- Just see this as an app template with some useful utils
+## What can you do with this?
+You can do anything you can with this.
+Just see this as an app template with some useful utils
 
- ## Wish you create amazing app!
+## How to start?
+1. Clone .env.template to .env
+2. Modify the according info as yours
+3. Run node app.js to check 
+
+## Wish you create amazing app!
